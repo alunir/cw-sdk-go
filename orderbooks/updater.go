@@ -8,7 +8,7 @@ import (
 	"github.com/juju/errors"
 
 	"code.cryptowat.ch/clock"
-	"code.cryptowat.ch/cw-sdk-go/common"
+	"github.com/alunir/cw-sdk-go/common"
 )
 
 const maxDeltasCacheSize = 50

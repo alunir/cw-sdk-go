@@ -1,8 +1,8 @@
 package rest
 
 import (
-	"code.cryptowat.ch/cw-sdk-go/cache"
-	"code.cryptowat.ch/cw-sdk-go/common"
+	"github.com/alunir/cw-sdk-go/cache"
+	"github.com/alunir/cw-sdk-go/common"
 )
 
 type MockV2Client struct {

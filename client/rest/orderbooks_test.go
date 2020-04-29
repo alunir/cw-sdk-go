@@ -3,7 +3,7 @@ package rest
 import (
 	"testing"
 
-	"code.cryptowat.ch/cw-sdk-go/common"
+	"github.com/alunir/cw-sdk-go/common"
 )
 
 func TestGetOrderBook(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 
 	"github.com/juju/errors"
 
-	"code.cryptowat.ch/cw-sdk-go/common"
+	"github.com/alunir/cw-sdk-go/common"
 )
 
 type ExchangeDescr struct {

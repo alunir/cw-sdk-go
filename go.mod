@@ -1,4 +1,4 @@
-module code.cryptowat.ch/cw-sdk-go
+module github.com/alunir/cw-sdk-go
 
 go 1.12
 

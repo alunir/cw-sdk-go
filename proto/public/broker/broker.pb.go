@@ -10,9 +10,9 @@ import (
 
 	math "math"
 
-	client "code.cryptowat.ch/cw-sdk-go/proto/public/client"
+	client "github.com/alunir/cw-sdk-go/proto/public/client"
 
-	stream "code.cryptowat.ch/cw-sdk-go/proto/public/stream"
+	stream "github.com/alunir/cw-sdk-go/proto/public/stream"
 
 	io "io"
 )

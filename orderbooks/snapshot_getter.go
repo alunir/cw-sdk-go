@@ -3,8 +3,8 @@ package orderbooks
 import (
 	"errors"
 
-	"code.cryptowat.ch/cw-sdk-go/client/rest"
-	"code.cryptowat.ch/cw-sdk-go/common"
+	"github.com/alunir/cw-sdk-go/client/rest"
+	"github.com/alunir/cw-sdk-go/common"
 )
 
 // OrderBookSnapshotGetter gets the up-to-date snapshot. Typically clients

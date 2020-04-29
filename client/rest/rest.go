@@ -1,7 +1,7 @@
 /*
 Package rest provides a client for using the Cryptowatch REST API.
 */
-package rest // import "code.cryptowat.ch/cw-sdk-go/client/rest"
+package rest // import "github.com/alunir/cw-sdk-go/client/rest"
 
 import (
 	"encoding/json"
@@ -11,8 +11,8 @@ import (
 
 	"github.com/juju/errors"
 
-	"code.cryptowat.ch/cw-sdk-go/config"
-	"code.cryptowat.ch/cw-sdk-go/version"
+	"github.com/alunir/cw-sdk-go/config"
+	"github.com/alunir/cw-sdk-go/version"
 )
 
 type RESTClient struct {

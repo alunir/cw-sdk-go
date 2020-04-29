@@ -20,11 +20,11 @@ import (
 	"github.com/gorilla/websocket"
 	"github.com/juju/errors"
 
-	"code.cryptowat.ch/cw-sdk-go/client/websocket/internal"
-	pbb "code.cryptowat.ch/cw-sdk-go/proto/public/broker"
-	pbc "code.cryptowat.ch/cw-sdk-go/proto/public/client"
-	pbm "code.cryptowat.ch/cw-sdk-go/proto/public/markets"
-	pbs "code.cryptowat.ch/cw-sdk-go/proto/public/stream"
+	"github.com/alunir/cw-sdk-go/client/websocket/internal"
+	pbb "github.com/alunir/cw-sdk-go/proto/public/broker"
+	pbc "github.com/alunir/cw-sdk-go/proto/public/client"
+	pbm "github.com/alunir/cw-sdk-go/proto/public/markets"
+	pbs "github.com/alunir/cw-sdk-go/proto/public/stream"
 )
 
 type eventType int
